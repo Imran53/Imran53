@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 💻 I ~like~ **love** coding
 - 🌱 I’m currently learning Spring Framework
-- 👯  I have successfully worked on production level projects
+- 👯  I have successfully worked on production level projects regarding android and backend
 
 ## Live Projects
 
