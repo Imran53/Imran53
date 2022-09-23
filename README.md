@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Spring Framework
 - 👯  I have successfully worked on production level projects regarding android and backend
 - 👯 Open for collaboration on any CS Research project and Open Source Development project
+- 📫 How to reach me: cgimrankhan97@gmail.com
 
 ## Live Projects
 
