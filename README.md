@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 💻 I ~like~ **love** coding
+- 🌱 I’m currently learning Computer Vision, NLP
 - 👯  I have successfully worked on production level projects regarding android and backend
 - 👯 Open for collaboration on any CS Research project and Open Source Development project
 - 📫 How to reach me: cgimrankhan97@gmail.com
