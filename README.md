@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Imran53)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Imran53&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran53&layout=compact&langs_count=10)
+
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Imran53&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imran53&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
